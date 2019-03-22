@@ -1,0 +1,10 @@
+{
+	"name": "k8s_endpoints_app",
+	"version": "1.0.0",
+	"description": "Kubernetes Secure Endpoints App",
+	"author": "Khash Sajadi <khash@cloud66.com>",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	}
+}
